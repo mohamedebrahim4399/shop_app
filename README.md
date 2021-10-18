@@ -1,16 +1,16 @@
-# shop_app
+# Shop APP
 
-A new Flutter project.
 
-## Getting Started
+- Shop APP Is an application for online shopping .
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<hr><br>
+<img src="Images/1.png" alt="image 2" width="180" height="400">
+<img src="Images/2.png" alt="image 2" width="180" height="400">
+<img src="Images/3.png" alt="image 2" width="180" height="400">
+<img src="Images/4.png" alt="image 2" width="180" height="400">
+<img src="Images/5.png" alt="image 2" width="180" height="400">
+<img src="Images/6.png" alt="image 2" width="180" height="400">
+<img src="Images/7.png" alt="image 2" width="180" height="400">
+<img src="Images/8.png" alt="image 2" width="180" height="400">
+<br>
